@@ -9,4 +9,4 @@ Some description
 
 # My Name
 
-Charles Finny Banepalli
+Charles Finny B
